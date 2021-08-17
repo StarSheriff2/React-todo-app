@@ -12,6 +12,10 @@ body {
   height: 100vh;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   display: flex;
   flex-direction: column;
@@ -65,6 +69,6 @@ body {
 }
 
 .active-link {
-  color: orangered;
-  text-decoration: underline;
+  color: white;
+  background-color: teal;
 }
