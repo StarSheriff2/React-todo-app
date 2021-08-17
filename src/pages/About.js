@@ -3,8 +3,6 @@ import SinglePage from "./SinglePage";
 import React from "react"
 
 const About = () => {
-  console.log(useRouteMatch());
-
   const { url, path } = useRouteMatch()
   //Then, update the return statement so you have:
   return (
