@@ -1,0 +1,11 @@
+{
+  "emmet.excludeLanguages": [
+
+    "markdown"
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+"liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+"gitlens.advanced.externalDiffTool": ""
+}
